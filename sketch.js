@@ -24,10 +24,7 @@ function draw(){
   fill("red");
   stroke("yellow");
   text("Area & Perimeter Finder of Square", displayWidth/2-100, displayHeight/2-100);
-
-  stroke("red");
-  line(50, 60, 395, 60);
-
+  
   form.display();
 
   drawSprites();
