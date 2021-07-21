@@ -19,11 +19,11 @@ function draw(){
 
   background(backgroundImage);
 
-  textSize(22);
+  textSize(45);
   textFont("Seoge Script");
   fill("red");
   stroke("yellow");
-  text("Area & Perimeter Finder of Square", windowWidth/2-125, windowHeight/2-100);
+  text("Area & Perimeter Finder of Square", windowWidth/2-350, windowHeight/2-100);
 
   form.display();
 
